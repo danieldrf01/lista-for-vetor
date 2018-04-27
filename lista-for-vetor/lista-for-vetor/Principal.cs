@@ -10,8 +10,8 @@ namespace lista_for_vetor
     {
         static void Main(string[] args)
         {
-            new Exercicio01();
-            new Exercicio02();
+            //new Exercicio01();
+            //new Exercicio02();
             new Exercicio03();
 
         }
