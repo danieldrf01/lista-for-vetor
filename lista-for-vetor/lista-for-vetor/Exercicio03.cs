@@ -29,7 +29,7 @@ namespace lista_for_vetor
 
             
             Console.WriteLine("\nTotal dos preçoes: " + "R$" + somaPrecos);
- 
+            
                 
         }
     }
